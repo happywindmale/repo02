@@ -47,13 +47,8 @@ public class Employee {
         this.gender = gender;
     }
 
-//    public Integer getDepartmentId() {
-//        return departmentId;
-//    }
 
-//    public void setDepartmentId(Integer departmentId) {
-//        this.departmentId = departmentId;
-//    }
+
 
 
 
